@@ -348,4 +348,3 @@ load();renderAll();
 </body>
 </html>
 
-<img width="468" height="625" alt="image" src="https://github.com/user-attachments/assets/a3710a8c-32a4-432c-b3af-7f5fbcc7dad8" />
